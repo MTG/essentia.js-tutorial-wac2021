@@ -1,16 +1,14 @@
-# essentia.js-tutorial-wac2021
-[Introduction to Music Information Retreival (MIR) using Essentia.js](https://webaudioconf2021.com/workshop-a-1/) - WAC 2021 Workshop, July, 2021.
+# Introduction to Music Information Retreival using Essentia.js
 
-- [Albin Correya](https://twitter.com/albincorreya)
-- [Dmitry Bogdanov](https://twitter.com/di_bogdanov)
-- [Jorge Marcos-Fernández](https://github.com/jmarcosfer)
-- [Luis Joglar-Ongay](https://twitter.com/luisjoglar)
+[Web Audio Conference 2021 workshop, July 6, 2021](https://webaudioconf2021.com/workshop-a-1/).
 
-@[Music Technology Group, UPF, Barcelona](https://www.upf.edu/web/mtg/).
+Presenters: [Albin Correya](https://twitter.com/albincorreya), [Dmitry Bogdanov](https://twitter.com/di_bogdanov), [Jorge Marcos-Fernández](https://github.com/jmarcosfer), and [Luis Joglar-Ongay](https://twitter.com/luisjoglar)
+
+@ [Music Technology Group, UPF, Barcelona](https://www.upf.edu/web/mtg/).
 
 ## Materials
 
-- [Slides](./Introduction%20to%20MIR%20using%20Essentia.js.pdf)
+- [Presentation slides](./Introduction%20to%20MIR%20using%20Essentia.js.pdf)
 - [JS playground examples on glitch](https://glitch.com/@jmarcosfer/wac-21-essentia-js-tutorial)
 
 
