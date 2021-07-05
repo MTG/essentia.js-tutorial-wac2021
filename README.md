@@ -2,9 +2,12 @@
 
 [Web Audio Conference 2021 workshop, July 6, 2021](https://webaudioconf2021.com/workshop-a-1/).
 
+Web Audio is an intrinsic part of the next generation of applications for multimedia content creators, designers, researchers, music tutors, artists, and consumers. New advances in web audio and software for audio analysis, music information retrieval (MIR), and machine learning open up exciting possibilities. We have recently released Essentia.js, based on one of the most popular MIR libraries on the native platform. We have also created various pre-trained deep learning models for inference with TensorFlow.js. In this tutorial, we introduce the key concepts in MIR and cover the basics of using the library for music and audio analysis. We will show example use-cases and assist the participants in building their MIR Web applications.
+
 Presenters: [Albin Correya](https://twitter.com/albincorreya), [Dmitry Bogdanov](https://twitter.com/di_bogdanov), [Jorge Marcos-Fernández](https://github.com/jmarcosfer), and [Luis Joglar-Ongay](https://twitter.com/luisjoglar)
 
 @ [Music Technology Group, UPF, Barcelona](https://www.upf.edu/web/mtg/).
+
 
 ## Materials
 
